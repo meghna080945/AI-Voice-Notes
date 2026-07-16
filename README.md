@@ -257,12 +257,6 @@ These are deliberately *not* in the current build, but they're obvious extension
 
 ---
 
-## License
-
-MIT — do whatever you want, but please don't ship it with surveillance bolted on. That defeats the point.
-
----
-
 ## Credits
 
 - Built by **Meghna Gupta**.
